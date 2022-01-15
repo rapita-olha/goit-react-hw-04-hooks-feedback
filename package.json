@@ -1,7 +1,7 @@
 {
-  "name": "goit-react-hw-02-feedback",
+  "name": "goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
-  "homepage": "https://rapita-olha.github.io/goit-react-hw-02-feedback/",
+  "homepage": "https://rapita-olha.github.io/goit-react-hw-04-hooks-feedback/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rapita-olha/goit-react-hw-02-feedback.git"
+    "url": "git+https://github.com/rapita-olha/goit-react-hw-04-hooks-feedback.git"
   },
   "scripts": {
     "start": "react-scripts start",
